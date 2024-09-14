@@ -1,0 +1,11 @@
+---
+title: "kegao1995.github.io"
+---
+
+Hello,
+
+My name is Kevin, and I am currently a Master of Data Science student at University of British Columbia, class of 2024. I have a bachelor degree in Physics and a master degree in Quantitative Finance.
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
